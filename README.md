@@ -12,11 +12,22 @@ A customizable auto-clicker designed for specific use cases where multiple click
 
 ## Requirements
 -Python 3.x
+
+
 -pyautogui library
+
+
 -pynput library
+
+
 -numpy library
+
+
 -keyboard library
+
+
 -tkinter library (comes with Python)
+
 
 
 ## Installation
@@ -35,9 +46,17 @@ python multi_auto_clicker.py
 The GUI will appear, allowing you to configure the auto-clicker settings.
 ### Configuration Options
 **Set Click Spots: Click this button to start setting the click spots. Click on the desired locations on your screen. The number of clicks to be set is defined by the "Number of clicks per set" field.**
+
+
 **Number of clicks per set: Enter the number of clicks you want per set.**
+
+
 **Position variation (pixels): Enter the maximum pixel offset for click variations.**
+
+
 **Delay between clicks (seconds): Enter the delay between individual clicks.**
+
+
 **Delay between sets of clicks (seconds): Enter the delay between sets of clicks.**
 
 
@@ -59,7 +78,12 @@ The GUI will appear, allowing you to configure the auto-clicker settings.
 
 
 -**Sound/Click Feedback**: Lack of audio feedback for each click action.
+
 -**User Interface**: Enhance the UI to be more visually appealing and user-friendly.
+
+
 -**Customize Keybind**: Allow user to pick the keybind to stop auto-clicker.
+
 -**Disable Buttons**: Disable and Enable Buttons when approperiate. 
+
 -**Always On Top**: Allowed user to have the auto-clicker be ontop of other programs. 

@@ -3,10 +3,15 @@ A customizable auto-clicker designed for specific use cases where multiple click
 
 ## Features
 -Set multiple click spots.
+
 -Configure the number of clicks per set.
+
 -Adjustable delay between individual clicks.
+
 -Adjustable delay between sets of clicks.
+
 -Randomized position variation for each click to simulate more human-like interaction.
+
 -Stop clicking via a keyboard shortcut(left control + left alt + Q).
 
 
